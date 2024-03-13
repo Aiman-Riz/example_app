@@ -14,9 +14,9 @@
             <br>
             <label type="password" name="password" >Password</label><br>
             <input name="password" type="text">
+            <br>
+            <button type="submit" onclick="">Submit</button>
         </form>
-        
-
     </p>
 </body>
 </html>
